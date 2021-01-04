@@ -3,4 +3,4 @@
 print("How many variables do you have?")
 numvar = input()
 
-print(numvar)
+print("There are "numvar "variables")
