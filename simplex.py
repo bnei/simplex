@@ -2,3 +2,5 @@
 
 print("How many variables do you have?")
 numvar = input()
+
+print(numvar)
