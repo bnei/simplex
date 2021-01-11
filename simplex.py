@@ -1,6 +1,10 @@
 #Get User to Define Variables
 
-print("How many variables do you have?")
-numvar = input()
+print("How many decision variables do you have?")
+numVar = input()
 
-print("There are "numvar "variables")
+while (targetType != "min" or "max")
+print("Is this is a min(imization) or max(imization) problem?")
+
+decVar = []
+print("There are "numVar "variables")
